@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eaboz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eaboz\\.nuget\\packages"
+    ]
+  }
+}
